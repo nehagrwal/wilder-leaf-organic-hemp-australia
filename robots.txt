@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/wilder-leaf-organic-hemp-australia/sitemap.xml
+Sitemap: https://wilder-leaf-organic-hemp-australia.vercel.app/sitemap-vercel.xml
+Sitemap: https://wilder-leaf-organic-hemp-australia.pages.dev/sitemap-cloudflare.xml
